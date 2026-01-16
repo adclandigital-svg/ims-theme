@@ -4163,7 +4163,7 @@ section {
   background: rgba(0, 0, 0, 0.3);
 }
 .researchLabs-item .box:hover {
-  background: rgba(250, 13, 13, 0.9);
+  background:#052c65!important;
 }
 .researchLabs-item .box .title {
   font-size: 30px;
